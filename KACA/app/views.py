@@ -1,4 +1,6 @@
 from django.shortcuts import render
+from .models import Post, Comment, Lecture
+from django.contrib.auth.models import User
 
 # Create your views here.
 def main(request):
