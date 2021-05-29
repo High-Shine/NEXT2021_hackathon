@@ -1,0 +1,5 @@
+secrets.json
+migrations
+db.sqlite3
+.vscode
+__pycache__
